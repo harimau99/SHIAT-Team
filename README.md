@@ -67,4 +67,4 @@ This website basically tell your house emotion distribution, send notification i
 ```
 
 ![alt text](screenshot/1.png)
-![alt text](screenshot/2.png)
+![alt text](screenshot/3.png)
